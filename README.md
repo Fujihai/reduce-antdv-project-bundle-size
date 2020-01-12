@@ -22,16 +22,16 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ##  Optimize the moment internationalization file
 
-![Components load on demand](imgs/1.png)
+![Components load on demand](imgs/1.PNG)
 
 ## Icons load on demand
 
-![Icons load on demand](imgs/2.png)
+![Icons load on demand](imgs/2.PNG)
 
 ##  Components load on demand
 
-![Components load on demand](imgs/3.png)
+![Components load on demand](imgs/3.PNG)
 
 ## Bundle Size Contrast 
 
-![Bundle Size Contrast](imgs/4.png)
+![Bundle Size Contrast](imgs/4.PNG)
