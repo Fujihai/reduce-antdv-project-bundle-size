@@ -1,6 +1,6 @@
 # reduce-antdv-project-bundle-size
 
-> A demo show how to reduce antdv project bundle size.
+> A demo show how to reduce ant design vue project bundle size.
 
 ## Build Setup
 
